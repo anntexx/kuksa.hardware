@@ -2,7 +2,7 @@
 
 To be able to make use of all hardware on CANOPi you need to configure your Linux distirbution accordingly.
 
-This guide assumes you are using a current (as of 2022) Raspberry Pi OS version based on Debian Buster.
+This guide assumes you are using a current (as of 2022) Raspberry Pi OS version based on Debian Bullseye (64-bit).
 
 The instructions should work on other distirbutions that also follow the Raspberry OS boot procedure provding a similarly recent kernel.
 
